@@ -81,7 +81,6 @@ This project analyzes real-world financial data from Home Credit, aiming to buil
 ├── images/                  # Visualizations and charts used in analysis
 ├── src/                     # Source code for feature engineering and modeling
 ├── README.md                # Project documentation
-└── requirements.txt         # Required Python libraries
 ```
 
 ---
