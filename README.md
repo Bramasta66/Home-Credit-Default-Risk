@@ -87,7 +87,7 @@ This project analyzes real-world financial data from Home Credit, aiming to buil
 
 ## 🔗 **Data Source**
 - **Home Credit Default Risk Dataset**  
-  - [Application Train Data]([https://www.kaggle.com/competitions/home-credit-default-risk/data])  
+  - [Application Train Data](https://www.kaggle.com/competitions/home-credit-default-risk/data)  
   - [Other Datasets can be found on data/]
 
 ---
