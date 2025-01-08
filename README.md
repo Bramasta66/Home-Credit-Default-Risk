@@ -78,7 +78,6 @@ This project analyzes real-world financial data from Home Credit, aiming to buil
 ```plaintext
 ├── data/                    # Dataset files
 ├── notebooks/               # Jupyter Notebooks for EDA, preprocessing, and modeling
-├── models/                  # Trained model files
 ├── images/                  # Visualizations and charts used in analysis
 ├── src/                     # Source code for feature engineering and modeling
 ├── README.md                # Project documentation
