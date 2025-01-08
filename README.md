@@ -10,6 +10,24 @@ This project analyzes real-world financial data from Home Credit, aiming to buil
 
 ---
 
+## 🔍 **Background**
+The project focuses on analyzing a dataset from **Home Credit**, a technology-based financing company. 
+
+As a company that provides credit or loans, Home Credit's profitability depends heavily on the number of loan applicants. A higher number of loan applicants translates to greater profit potential for the company. In September 2024, data on Indonesia's peer-to-peer lending debt revealed that loan applications were significantly high, with West Java alone reaching **19.38 trillion IDR**. This indicates a significant profit potential for Home Credit operating in Indonesia.
+
+However, financial data on prospective borrowers is often limited, unstructured, or fails to reflect their ability to repay loans in the future. This leads to slower decision-making processes and an increased risk of bad debt (default). Supporting this, data on the value and ratio of bad loans in Indonesia from January 2022 to June 2023 shows a rise in defaults alongside increasing credit disbursement. In the first semester of 2022, the national bad loan ratio for peer-to-peer lending stood at **2.3% to 2.5%**, but by the first semester of 2023, it had risen to **2.7% to 3.3%**.
+
+### **Problem Statement**
+How can Home Credit minimize the risk of losses while improving the efficiency of its loan application processes?
+
+### **Project Goal**
+To minimize losses and improve operational efficiency in credit issuance by developing a machine learning model capable of predicting customers' ability to repay loans.
+
+### **Business Metric**
+The success of this project is measured using the **default rate**, a critical indicator for Home Credit's business performance.
+
+---
+
 ## 🚀 **Key Objectives**
 1. **Risk Mitigation**: Predict potential defaults to minimize financial losses.
 2. **Efficiency Improvement**: Streamline the credit approval process with automation and insights.
